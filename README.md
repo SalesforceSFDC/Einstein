@@ -1,6 +1,8 @@
 # Einstein
 Machine learning, deep learning, predictive analytics, natural language processing and smart data discovery.
 * https://metamind.readme.io/v1/docs
+* https://github.com/MetaMind/apex-utils
+* https://github.com/salesforceidentity/jwt
 
 
 ## Einstein Platform
