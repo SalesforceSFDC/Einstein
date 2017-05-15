@@ -5,3 +5,7 @@ Machine learning, deep learning, predictive analytics, natural language processi
 
 ## Einstein Platform
 
+A model is a machine learning construct used to solve a classification problem.
+
+
+
