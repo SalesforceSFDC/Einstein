@@ -10,4 +10,6 @@ Machine learning, deep learning, predictive analytics, natural language processi
 A model is a machine learning construct used to solve a classification problem.  The model learns from data instead of from explicit rules.  
 
 
+### Sales Cloud Einstein
+Einstein Activity Capture - Sales reps just connect their email and calendar to Salesforce. Then, their activities are automatically added to related Salesforce records. Plus, emails sent from Salesforce go through their regular email account.
 
