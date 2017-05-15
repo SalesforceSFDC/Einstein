@@ -7,5 +7,7 @@ Machine learning, deep learning, predictive analytics, natural language processi
 
 A model is a machine learning construct used to solve a classification problem.  The model learns from data instead of from explicit rules.  
 
+ c  
+
 
 
