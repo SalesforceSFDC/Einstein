@@ -4,7 +4,7 @@ Machine learning, deep learning, predictive analytics, natural language processi
 * https://github.com/MetaMind/apex-utils
 * https://github.com/salesforceidentity/jwt
 * [Learn Einstein Lead Scoring on Trailhead](https://developer.salesforce.com/promotions/orgs/einsteinleadscoring)
-* [Einstein Platform How-to Webinar: Get Started with Einstein Discovery - Replay(http://salesforce.vidyard.com/watch/ozCijf3M5yAjZk9QJ9A5Pg)
+* [Einstein Platform How-to Webinar: Get Started with Einstein Discovery - Replay](http://salesforce.vidyard.com/watch/ozCijf3M5yAjZk9QJ9A5Pg)
 
 ## Einstein Platform
 
