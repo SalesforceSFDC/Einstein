@@ -1,5 +1,6 @@
 # Einstein
 Machine learning, deep learning, predictive analytics, natural language processing and smart data discovery.
+* [Einstein PLATFORM for Partners](https://trailhead.salesforce.com/users/nmoscaritolo/trailmixes/einstein-platform-for-partners)
 * [FY20 AMER Einstein AI PARTNER SUMMIT - Seat Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdkzr3Veq4d__IKrsplAqoq4GtpQ-vpfXhDxSj6XctJPNvAaw/viewform)
 * https://metamind.readme.io/v1/docs
 * https://github.com/MetaMind/apex-utils
