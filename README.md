@@ -1,5 +1,6 @@
 # Einstein
 Machine learning, deep learning, predictive analytics, natural language processing and smart data discovery.
+* [Official:Einstein Analytics for Partners](https://partners.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F9300000009OGM)
 * [Einstein Analytics & Discovery Cert FP](https://partners.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F93A00000024Uo)
 * [Einstein PLATFORM for Partners](https://trailhead.salesforce.com/users/nmoscaritolo/trailmixes/einstein-platform-for-partners)
 * [FY20 AMER Einstein AI PARTNER SUMMIT - Seat Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdkzr3Veq4d__IKrsplAqoq4GtpQ-vpfXhDxSj6XctJPNvAaw/viewform)
