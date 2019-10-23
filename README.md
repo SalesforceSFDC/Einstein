@@ -27,3 +27,27 @@ A model is a machine learning construct used to solve a classification problem. 
   * Key Moments—Reps are notified at key moments related to a deal, such as when a contact mentions a competitor or is leaving their company.
 
  * __Einstein Account Insights__ - helps your sales team maintain their relationships with customers by keeping the team informed about key business developments that affect customers. 
+
+## Einstein Language
+Language contains two NLP services: Einstein Intent and Einstein Sentiment.
+
+The Einstein Language APIs support data in these file formats:
+.csv (comma-separated values)
+.tsv (tab-separated values)
+.json
+
+### Einstein Intent—
+The Einstein Intent API categorizes unstructured text into user-defined labels to better understand what users are trying to accomplish. Use this API to analyze text from emails, chats, or web forms to:
+* Determine which products prospects are interested in, and send customer inquiries to the appropriate sales person.
+* Route service cases to the correct agents or departments, or provide self-service options.
+* Understand customer posts to provide personalized self-service in your communities.
+
+### Einstein Sentiment—
+The Einstein Sentiment API classifies text into positive, negative, and neutral classes to understand what the words people use can tell us about how they’re feeling. Use this API to analyze emails, social media, and text from chat to:
+* Identify the sentiment or emotion in a prospect’s emails to trend a lead or opportunity up or down.
+* Provide proactive service by helping dissatisfied customers first or extending promotional offers to satisfied customers.
+* Monitor how people perceive your brand across social media channels, identify brand evangelists, and note customer satisfaction.
+
+### Resources
+* [Einstein API Signup](https://api.einstein.ai/signup)
+* [Einstein Platform Developer Guide](https://metamind.readme.io/docs/intro-to-einstein-language)
