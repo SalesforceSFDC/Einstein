@@ -11,6 +11,10 @@ Machine learning, deep learning, predictive analytics, natural language processi
 * [Einstein Platform How-to Webinar: Get Started with Einstein Discovery - Replay](http://salesforce.vidyard.com/watch/ozCijf3M5yAjZk9QJ9A5Pg)
 * [Einstein Platform How-to Webinar: Get Started with Einstein Discovery - Slides](https://success.salesforce.com/0693A000007SadUQAS)
 * [Workbook_Deep_Learning_and_Natural_Language_Processing](https://colab.research.google.com/drive/1dttXAHcnXF1IdendtoNCBPyy42rNEquq#scrollTo=gvh_MLh0FTtj)
+* [Salesforce Event Log File Browser](https://salesforce-elf.herokuapp.com/)
+* [Apex Trigger Event Type](https://developer.salesforce.com/docs/atlas.en-us.api.meta/api/sforce_api_objects_eventlogfile_apextrigger.htm)
+* [Einstein AI Learning Path](https://partnernavigator.salesforce.com/s/einsteinai?step=1)
+* [Einstein Analytics Learning Path](https://partnernavigator.salesforce.com/s/einsteinanalytics?step=1)
 
 ## Certified Einstein Analytics and Discovery Consultant
 * [Salesforce Certified Einstein Analytics and Discovery Consultant](https://trailhead.salesforce.com/help?article=Salesforce-Certified-Einstein-Analytics-and-Discovery-Consultant-Exam-Guide)
