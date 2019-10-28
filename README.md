@@ -14,7 +14,7 @@ Machine learning, deep learning, predictive analytics, natural language processi
 
 ## Certified Einstein Analytics and Discovery Consultant
 * [Salesforce Certified Einstein Analytics and Discovery Consultant](https://trailhead.salesforce.com/help?article=Salesforce-Certified-Einstein-Analytics-and-Discovery-Consultant-Exam-Guide)
-* [Learn Einstein Analytics Plus Trailmix](https://trailhead.salesforce.com/users/ea-trails/trailmixes/learn-einstein-analytics-plus
+* [Learn Einstein Analytics Plus Trailmix](https://trailhead.salesforce.com/users/ea-trails/trailmixes/learn-einstein-analytics-plus)
 
 ## Einstein Platform
 
