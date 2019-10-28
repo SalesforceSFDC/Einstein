@@ -10,6 +10,11 @@ Machine learning, deep learning, predictive analytics, natural language processi
 * [Learn Einstein Lead Scoring on Trailhead](https://developer.salesforce.com/promotions/orgs/einsteinleadscoring)
 * [Einstein Platform How-to Webinar: Get Started with Einstein Discovery - Replay](http://salesforce.vidyard.com/watch/ozCijf3M5yAjZk9QJ9A5Pg)
 * [Einstein Platform How-to Webinar: Get Started with Einstein Discovery - Slides](https://success.salesforce.com/0693A000007SadUQAS)
+* [Workbook_Deep_Learning_and_Natural_Language_Processing](https://colab.research.google.com/drive/1dttXAHcnXF1IdendtoNCBPyy42rNEquq#scrollTo=gvh_MLh0FTtj)
+
+## Certified Einstein Analytics and Discovery Consultant
+* [Salesforce Certified Einstein Analytics and Discovery Consultant](https://trailhead.salesforce.com/help?article=Salesforce-Certified-Einstein-Analytics-and-Discovery-Consultant-Exam-Guide)
+* [Learn Einstein Analytics Plus Trailmix](https://trailhead.salesforce.com/users/ea-trails/trailmixes/learn-einstein-analytics-plus
 
 ## Einstein Platform
 
