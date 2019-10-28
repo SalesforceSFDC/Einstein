@@ -20,6 +20,8 @@ Machine learning, deep learning, predictive analytics, natural language processi
 * [Salesforce Certified Einstein Analytics and Discovery Consultant](https://trailhead.salesforce.com/help?article=Salesforce-Certified-Einstein-Analytics-and-Discovery-Consultant-Exam-Guide)
 * [Learn Einstein Analytics Plus Trailmix](https://trailhead.salesforce.com/users/ea-trails/trailmixes/learn-einstein-analytics-plus)
 
+`/services/data/v46.0/query?q=SELECT+Id+,+EventType+,+LogDate+,+LogFileLength+,+LogFile+FROM+EventLogFile++WHERE+EventType+=+'ReportExport'`
+
 ## Einstein Platform
 
 A model is a machine learning construct used to solve a classification problem.  The model learns from data instead of from explicit rules.  
