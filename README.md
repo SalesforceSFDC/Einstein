@@ -21,6 +21,7 @@ Machine learning, deep learning, predictive analytics, natural language processi
 * [Learn Einstein Analytics Plus Trailmix](https://trailhead.salesforce.com/users/ea-trails/trailmixes/learn-einstein-analytics-plus)
 * `DB_TOTAL_TIME` is the time in nanoseconds for a database round-trip.
 * `CPU_TIME` is the CPU time in milliseconds used to complete the request. This measure indicates the amount of activity taking place in the app server layer.
+* Compare the `DB_TOTAL_TIME` to `CPU_TIME` to determine whether performance issues are occurring in the database layer or in your own code. 
 
 `/services/data/v46.0/query?q=SELECT+Id+,+EventType+,+LogDate+,+LogFileLength+,+LogFile+FROM+EventLogFile++WHERE+EventType+=+'ReportExport'`
 
