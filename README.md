@@ -19,6 +19,8 @@ Machine learning, deep learning, predictive analytics, natural language processi
 ## Certified Einstein Analytics and Discovery Consultant
 * [Salesforce Certified Einstein Analytics and Discovery Consultant](https://trailhead.salesforce.com/help?article=Salesforce-Certified-Einstein-Analytics-and-Discovery-Consultant-Exam-Guide)
 * [Learn Einstein Analytics Plus Trailmix](https://trailhead.salesforce.com/users/ea-trails/trailmixes/learn-einstein-analytics-plus)
+* `DB_TOTAL_TIME` is the time in nanoseconds for a database round-trip.
+* `CPU_TIME` is the CPU time in milliseconds used to complete the request. This measure indicates the amount of activity taking place in the app server layer.
 
 `/services/data/v46.0/query?q=SELECT+Id+,+EventType+,+LogDate+,+LogFileLength+,+LogFile+FROM+EventLogFile++WHERE+EventType+=+'ReportExport'`
 
