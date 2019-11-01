@@ -22,6 +22,8 @@ Machine learning, deep learning, predictive analytics, natural language processi
 
 `/services/data/v46.0/query?q=SELECT+Id+,+EventType+,+LogDate+,+LogFileLength+,+LogFile+FROM+EventLogFile++WHERE+EventType+=+'ReportExport'`
 
+`https://${instance}.salesforce.com/services/data/v34.0/query?q=Select+Id+,+EventType+,+LogDate+From+EventLogFile+Where+LogDate+=+${day}`
+
 ## Einstein Platform
 
 A model is a machine learning construct used to solve a classification problem.  The model learns from data instead of from explicit rules.  
