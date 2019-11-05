@@ -1,4 +1,6 @@
 ## Einstein Language
+* [Einstein Bot Cookbook](https://developer.salesforce.com/docs/atlas.en-us.bot_cookbook.meta/bot_cookbook/bot_cookbook_beginner_section.htm)
+
 Language contains two NLP services: Einstein Intent and Einstein Sentiment.
 
 The Einstein Language APIs support data in these file formats:
